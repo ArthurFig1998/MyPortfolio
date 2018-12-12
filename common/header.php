@@ -1,3 +1,5 @@
+<div class="topNav">
+<div class="logo">AF</div>
 <div class="menu-icon" id="menu-icon" onclick="toggleNav()">
     <span></span>
 </div>
@@ -9,3 +11,4 @@
         <li><a href='#'>Four</a></li>
     </ul>
 </nav>
+</div>
